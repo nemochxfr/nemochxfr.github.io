@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochx.github.io</id>
-    <title>Grideaaa</title>
-    <updated>2021-01-31T14:11:47.921Z</updated>
+    <title>世界链接枢纽</title>
+    <updated>2021-01-31T15:03:43.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochx.github.io"/>
     <link rel="self" href="https://nemochx.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>恢雪君个人网站</subtitle>
     <logo>https://nemochx.github.io/images/avatar.png</logo>
     <icon>https://nemochx.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Grideaaa</rights>
+    <rights>All rights reserved 2021, 世界链接枢纽</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://nemochx.github.io/post/hello-gridea/</id>
