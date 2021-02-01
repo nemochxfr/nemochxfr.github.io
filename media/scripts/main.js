@@ -1,281 +1,190 @@
-/*
-	Multiverse by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+;(function () {
+	
+	'use strict';
 
-(function($) {
 
-	var	$window = $(window),
-		$body = $('body'),
-		$wrapper = $('#wrapper');
 
-	// Breakpoints.
-		breakpoints({
-			xlarge:  [ '1281px',  '1680px' ],
-			large:   [ '981px',   '1280px' ],
-			medium:  [ '737px',   '980px'  ],
-			small:   [ '481px',   '736px'  ],
-			xsmall:  [ null,      '480px'  ]
+	// iPad and iPod detection	
+	var isiPad = function(){
+		return (navigator.platform.indexOf("iPad") != -1);
+	};
+
+	var isiPhone = function(){
+	    return (
+			(navigator.platform.indexOf("<i></i>Phone") != -1) || 
+			(navigator.platform.indexOf("iPod") != -1)
+	    );
+	};
+
+	
+	
+
+	// Click outside of offcanvass
+	var mobileMenuOutsideClick = function() {
+
+		$(document).click(function (e) {
+	    var container = $("#fh5co-offcanvas, .js-fh5co-close-offcanvas");
+	    if (!container.is(e.target) && container.has(e.target).length === 0) {
+
+	    	if ( $('#fh5co-offcanvas').hasClass('animated fadeInLeft') ) {
+
+    			$('#fh5co-offcanvas').addClass('animated fadeOutLeft');
+				setTimeout(function(){
+					$('#fh5co-offcanvas').css('display', 'none');	
+					$('#fh5co-offcanvas').removeClass('animated fadeOutLeft fadeInLeft');
+				}, 1000);
+				$('.js-fh5co-nav-toggle').removeClass('active');
+				
+	    	}
+	    
+	    	
+	    }
 		});
 
-	// Hack: Enable IE workarounds.
-		if (browser.name == 'ie')
-			$body.addClass('ie');
+		$('body').on('click', '.js-fh5co-close-offcanvas', function(event){
+		
 
-	// Touch?
-		if (browser.mobile)
-			$body.addClass('touch');
+	  		$('#fh5co-offcanvas').addClass('animated fadeOutLeft');
+			setTimeout(function(){
+				$('#fh5co-offcanvas').css('display', 'none');	
+				$('#fh5co-offcanvas').removeClass('animated fadeOutLeft fadeInLeft');
+			}, 1000);
+			$('.js-fh5co-nav-toggle').removeClass('active');
 
-	// Transitions supported?
-		if (browser.canUse('transition')) {
+	    	event.preventDefault();
 
-			// Play initial animations on page load.
-				$window.on('load', function() {
-					window.setTimeout(function() {
-						$body.removeClass('is-preload');
-					}, 100);
-				});
+		});
 
-			// Prevent transitions/animations on resize.
-				var resizeTimeout;
+	};
 
-				$window.on('resize', function() {
+	
 
-					window.clearTimeout(resizeTimeout);
+	
 
-					$body.addClass('is-resizing');
+	// Burger Menu
+	var burgerMenu = function() {
 
-					resizeTimeout = window.setTimeout(function() {
-						$body.removeClass('is-resizing');
-					}, 100);
+		$('body').on('click', '.js-fh5co-nav-toggle', function(event){
 
-				});
+			var $this = $(this);
 
+			$('#fh5co-offcanvas').css('display', 'block');
+			setTimeout(function(){
+				$('#fh5co-offcanvas').addClass('animated fadeInLeft');
+			}, 100);
+			
+			// $('body').toggleClass('fh5co-overflow offcanvas-visible');
+			$this.toggleClass('active');
+			event.preventDefault();
+
+		});
+
+	};
+
+	var scrolledWindow = function() {
+
+		$(window).scroll(function(){
+
+			var header = $('#fh5co-header'),
+				scrlTop = $(this).scrollTop();
+
+
+		   $('#fh5co-home .flexslider .fh5co-overlay').css({
+				'opacity' : (.5)+(scrlTop/2000)
+		   });
+
+		   if ( $('body').hasClass('offcanvas-visible') ) {
+		   	$('body').removeClass('offcanvas-visible');
+		   	$('.js-fh5co-nav-toggle').removeClass('active');
+		   }
+		 
+		});
+
+		$(window).resize(function() {
+			if ( $('body').hasClass('offcanvas-visible') ) {
+		   	$('body').removeClass('offcanvas-visible');
+		   	$('.js-fh5co-nav-toggle').removeClass('active');
+		   }
+		});
+		
+	};
+
+
+	
+
+	// Page Nav
+	var clickMenu = function() {
+		var topVal = ( $(window).width() < 769 ) ? 0 : 58;
+
+		$(window).resize(function(){
+			topVal = ( $(window).width() < 769 ) ? 0 : 58;		
+		});
+
+		if ( $(this).attr('href') != "#") {
+			$('#fh5co-main-nav a:not([class="external"]), #fh5co-offcanvas a:not([class="external"])').click(function(event){
+				var section = $(this).data('nav-section');
+
+
+				if ( $('div[data-section="' + section + '"]').length ) {
+
+					$('html, body').animate({
+			        	scrollTop: $('div[data-section="' + section + '"]').offset().top - topVal
+			    	}, 500);	
+			    	
+			   }
+			   event.preventDefault();
+
+			});
 		}
 
-	// Scroll back to top.
-		$window.scrollTop(0);
+		
 
-	// Panels.
-		var $panels = $('.panel');
 
-		$panels.each(function() {
+	};
 
-			var $this = $(this),
-				$toggles = $('[href="#' + $this.attr('id') + '"]'),
-				$closer = $('<div class="closer" />').appendTo($this);
 
-			// Closer.
-				$closer
-					.on('click', function(event) {
-						$this.trigger('---hide');
+	var contentWayPoint = function() {
+		var i = 0;
+		$('.animate-box').waypoint( function( direction ) {
+
+			if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+				
+				i++;
+
+				$(this.element).addClass('item-animate');
+				setTimeout(function(){
+					
+					$('body .animate-box.item-animate').each(function(k){
+						var el = $(this);
+						setTimeout( function () {
+							el.addClass('fadeInUp animated');
+							el.removeClass('item-animate');
+						},  k * 200, 'easeInOutExpo' );
 					});
+					
+				}, 100);
+				
+			}
 
-			// Events.
-				$this
-					.on('click', function(event) {
-						event.stopPropagation();
-					})
-					.on('---toggle', function() {
+		} , { offset: '85%' } );
 
-						if ($this.hasClass('active'))
-							$this.triggerHandler('---hide');
-						else
-							$this.triggerHandler('---show');
 
-					})
-					.on('---show', function() {
+	};
 
-						// Hide other content.
-							if ($body.hasClass('content-active'))
-								$panels.trigger('---hide');
 
-						// Activate content, toggles.
-							$this.addClass('active');
-							$toggles.addClass('active');
+	// Document on load.
+	$(function(){
 
-						// Activate body.
-							$body.addClass('content-active');
+		mobileMenuOutsideClick();
+		burgerMenu();
+		scrolledWindow();
+		
+		// Animations
+		contentWayPoint();
+		
+		
 
-					})
-					.on('---hide', function() {
+	});
 
-						// Deactivate content, toggles.
-							$this.removeClass('active');
-							$toggles.removeClass('active');
 
-						// Deactivate body.
-							$body.removeClass('content-active');
-
-					});
-
-			// Toggles.
-				$toggles
-					.removeAttr('href')
-					.css('cursor', 'pointer')
-					.on('click', function(event) {
-
-						event.preventDefault();
-						event.stopPropagation();
-
-						$this.trigger('---toggle');
-
-					});
-
-		});
-
-		// Global events.
-			$body
-				.on('click', function(event) {
-
-					if ($body.hasClass('content-active')) {
-
-						event.preventDefault();
-						event.stopPropagation();
-
-						$panels.trigger('---hide');
-
-					}
-
-				});
-
-			$window
-				.on('keyup', function(event) {
-
-					if (event.keyCode == 27
-					&&	$body.hasClass('content-active')) {
-
-						event.preventDefault();
-						event.stopPropagation();
-
-						$panels.trigger('---hide');
-
-					}
-
-				});
-
-	// Header.
-		var $header = $('#header');
-
-		// Links.
-			$header.find('a').each(function() {
-
-				var $this = $(this),
-					href = $this.attr('href');
-
-				// Internal link? Skip.
-					if (!href
-					||	href.charAt(0) == '#')
-						return;
-
-				// Redirect on click.
-					$this
-						.removeAttr('href')
-						.css('cursor', 'pointer')
-						.on('click', function(event) {
-
-							event.preventDefault();
-							event.stopPropagation();
-
-							window.location.href = href;
-
-						});
-
-			});
-
-	// Footer.
-		var $footer = $('#footer');
-
-		// Copyright.
-		// This basically just moves the copyright line to the end of the *last* sibling of its current parent
-		// when the "medium" breakpoint activates, and moves it back when it deactivates.
-			$footer.find('.copyright').each(function() {
-
-				var $this = $(this),
-					$parent = $this.parent(),
-					$lastParent = $parent.parent().children().last();
-
-				breakpoints.on('<=medium', function() {
-					$this.appendTo($lastParent);
-				});
-
-				breakpoints.on('>medium', function() {
-					$this.appendTo($parent);
-				});
-
-			});
-
-	// Main.
-		var $main = $('#main');
-
-		// Thumbs.
-			$main.children('.thumb').each(function() {
-
-				var	$this = $(this),
-					$image = $this.find('.image'), $image_img = $image.children('img'),
-					x;
-
-				// No image? Bail.
-					if ($image.length == 0)
-						return;
-
-				// Image.
-				// This sets the background of the "image" <span> to the image pointed to by its child
-				// <img> (which is then hidden). Gives us way more flexibility.
-
-					// Set background.
-						$image.css('background-image', 'url(' + $image_img.attr('src') + ')');
-
-					// Set background position.
-						if (x = $image_img.data('position'))
-							$image.css('background-position', x);
-
-					// Hide original img.
-						$image_img.hide();
-
-			});
-
-		// Poptrox.
-			$main.poptrox({
-				baseZIndex: 20000,
-				caption: function($a) {
-
-					var s = '';
-
-					$a.nextAll().each(function() {
-						s += this.outerHTML;
-					});
-
-					return s;
-
-				},
-				fadeSpeed: 300,
-				onPopupClose: function() { $body.removeClass('modal-active'); },
-				onPopupOpen: function() { $body.addClass('modal-active'); },
-				overlayOpacity: 0,
-				popupCloserText: '',
-				popupHeight: 150,
-				popupLoaderText: '',
-				popupSpeed: 300,
-				popupWidth: 150,
-				selector: '.thumb > a.image',
-				usePopupCaption: true,
-				usePopupCloser: true,
-				usePopupDefaultStyling: false,
-				usePopupForceClose: true,
-				usePopupLoader: true,
-				usePopupNav: true,
-				windowMargin: 50
-			});
-
-			// Hack: Set margins to 0 when 'xsmall' activates.
-				breakpoints.on('<=xsmall', function() {
-					$main[0]._poptrox.windowMargin = 0;
-				});
-
-				breakpoints.on('>xsmall', function() {
-					$main[0]._poptrox.windowMargin = 50;
-				});
-
-})(jQuery);
+}());
