@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochx.github.io</id>
-    <title>悠久链接枢纽机关</title>
-    <updated>2021-02-01T08:02:28.982Z</updated>
+    <title>悠久机关枢纽</title>
+    <updated>2021-02-01T09:48:06.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochx.github.io"/>
     <link rel="self" href="https://nemochx.github.io/atom.xml"/>
     <subtitle>恢雪君的网站</subtitle>
     <logo>https://nemochx.github.io/images/avatar.png</logo>
     <icon>https://nemochx.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 悠久链接枢纽机关</rights>
+    <rights>All rights reserved 2021, 悠久机关枢纽</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://nemochx.github.io/post/hello-gridea/</id>
