@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochx.github.io</id>
     <title>悠久机关枢纽</title>
-    <updated>2021-02-01T15:04:28.147Z</updated>
+    <updated>2021-02-01T15:30:36.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochx.github.io"/>
     <link rel="self" href="https://nemochx.github.io/atom.xml"/>
@@ -11,6 +11,15 @@ https://user.qzone.qq.com/799948304</subtitle>
     <logo>https://nemochx.github.io/images/avatar.png</logo>
     <icon>https://nemochx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 悠久机关枢纽</rights>
+    <entry>
+        <title type="html"><![CDATA[机 洗 肥 皂]]></title>
+        <id>https://nemochx.github.io/post/ji-xi-fei-zao/</id>
+        <link href="https://nemochx.github.io/post/ji-xi-fei-zao/">
+        </link>
+        <updated>2021-02-01T15:05:33.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV14f4y1Q75X" target="_blank">点击观看</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建立纪念]]></title>
         <id>https://nemochx.github.io/post/jljn/</id>
