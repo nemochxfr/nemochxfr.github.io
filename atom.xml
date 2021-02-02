@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochx.github.io</id>
     <title>悠久机关枢纽</title>
-    <updated>2021-02-02T04:58:26.421Z</updated>
+    <updated>2021-02-02T08:46:00.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochx.github.io"/>
     <link rel="self" href="https://nemochx.github.io/atom.xml"/>
@@ -21,13 +21,13 @@ https://user.qzone.qq.com/799948304</subtitle>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[建立纪念]]></title>
+        <title type="html"><![CDATA[关于本站]]></title>
         <id>https://nemochx.github.io/post/jljn/</id>
         <link href="https://nemochx.github.io/post/jljn/">
         </link>
         <updated>2021-02-01T10:59:23.000Z</updated>
         <content type="html"><![CDATA[<p>本站建于2021年2月1日。<br>
-🥛</p>
+使用Gridea建立。</p>
 ]]></content>
     </entry>
     <entry>
