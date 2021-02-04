@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nemochx.github.io</id>
-    <title>悠久机关枢纽</title>
-    <updated>2021-02-03T14:13:26.242Z</updated>
+    <id>https://nemochxfr.github.io</id>
+    <title>Institution-Pivot-Séculaire</title>
+    <updated>2021-02-04T04:57:24.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nemochx.github.io"/>
-    <link rel="self" href="https://nemochx.github.io/atom.xml"/>
-    <subtitle>恢雪君的网站</subtitle>
-    <logo>https://nemochx.github.io/images/avatar.png</logo>
-    <icon>https://nemochx.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 悠久机关枢纽</rights>
+    <link rel="alternate" href="https://nemochxfr.github.io"/>
+    <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
+    <subtitle>site de chen.</subtitle>
+    <logo>https://nemochxfr.github.io/images/avatar.png</logo>
+    <icon>https://nemochxfr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
     <entry>
-        <title type="html"><![CDATA[机 洗 肥 皂]]></title>
-        <id>https://nemochx.github.io/post/ji-xi-fei-zao/</id>
-        <link href="https://nemochx.github.io/post/ji-xi-fei-zao/">
+        <title type="html"><![CDATA[Laver un savon par machine]]></title>
+        <id>https://nemochxfr.github.io/post/ji-xi-fei-zao/</id>
+        <link href="https://nemochxfr.github.io/post/ji-xi-fei-zao/">
         </link>
         <updated>2021-02-01T15:05:33.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV14f4y1Q75X" target="_blank">点击观看</a></p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://nemochx.github.io/post/jljn/</id>
-        <link href="https://nemochx.github.io/post/jljn/">
+        <id>https://nemochxfr.github.io/post/jljn/</id>
+        <link href="https://nemochxfr.github.io/post/jljn/">
         </link>
         <updated>2021-02-01T10:59:23.000Z</updated>
         <content type="html"><![CDATA[<p>建于2021年2月1日。<br>
@@ -31,8 +31,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://nemochx.github.io/post/hello-gridea/</id>
-        <link href="https://nemochx.github.io/post/hello-gridea/">
+        <id>https://nemochxfr.github.io/post/hello-gridea/</id>
+        <link href="https://nemochxfr.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
