@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-04T06:35:52.961Z</updated>
+    <updated>2021-02-05T09:03:10.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
+    <entry>
+        <title type="html"><![CDATA[瓶盖收集]]></title>
+        <id>https://nemochxfr.github.io/post/ping-gai-shou-ji/</id>
+        <link href="https://nemochxfr.github.io/post/ping-gai-shou-ji/">
+        </link>
+        <updated>2021-02-04T09:05:30.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inachèvement ]]></title>
+        <id>https://nemochxfr.github.io/post/Inachevement/</id>
+        <link href="https://nemochxfr.github.io/post/Inachevement/">
+        </link>
+        <updated>2021-02-04T08:54:38.000Z</updated>
+        <content type="html"><![CDATA[<h3>是历史的虚无。</h3>
+<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612429271820.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laver un savon par machine]]></title>
         <id>https://nemochxfr.github.io/post/ji-xi-fei-zao/</id>
