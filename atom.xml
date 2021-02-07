@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-05T15:00:23.514Z</updated>
+    <updated>2021-02-07T12:56:07.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
+    <entry>
+        <title type="html"><![CDATA[Pizza]]></title>
+        <id>https://nemochxfr.github.io/post/pizza/</id>
+        <link href="https://nemochxfr.github.io/post/pizza/">
+        </link>
+        <updated>2021-02-07T12:37:26.000Z</updated>
+        <content type="html"><![CDATA[<p>Le temps et l'espace sont essentiellement les mêmes choses.<br>
+N'importe quoi qu'il soit ! C'est juste comme un pizza.</p>
+<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612702560242.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juste rester immobile]]></title>
+        <id>https://nemochxfr.github.io/post/juste-immobile/</id>
+        <link href="https://nemochxfr.github.io/post/juste-immobile/">
+        </link>
+        <updated>2021-02-07T09:31:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>Selon la théorie du temps Planck, le temps minimum existe.<br>
+Mais, pour quoi?<br>
+Bien sûr, je ne parle pas de pourquoi la science est comme ça. Si un temps est plus court que la minimale, alors ce temps ne peut pas être observé. Que va-t-il se passer? Il va changer la réalité du monde! La vérité sera complètement différente de ce que nous observons, et des choses «déraisonnables» vont se passeront. &quot;Juste rester immobile&quot; est l'expression d'une de ces situations.<br>
+La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniformément.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Selon la théorie du temps Planck, le temps minimum existe.<br>
+Mais, pour quoi?<br>
+Bien sûr, je ne parle pas de pourquoi la science est comme ça. Si un temps est plus court que la minimale, alors ce temps ne peut pas être observé. Que va-t-il se passer? Il va changer la réalité du monde! La vérité sera complètement différente de ce que nous observons, et des choses «déraisonnables» vont se passeront. &quot;Juste rester immobile&quot; est l'expression d'une de ces situations.<br>
+La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniformément.</p>
+<!-- more -->
+<p><img src="https://nemochxfr.github.io/post-images/1612700951190.jpg" alt="1" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612700960110.jpg" alt="2" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612700968800.jpg" alt="3" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612700979784.jpg" alt="4" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612700991703.jpg" alt="5" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612701001938.jpg" alt="6" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612701007405.jpg" alt="7" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瓶盖收集]]></title>
         <id>https://nemochxfr.github.io/post/ping-gai-shou-ji/</id>
@@ -41,9 +77,9 @@
 <div align=center>*vidéo1：40*</div>
 <div align=center>*BGM：長谷川智樹 絶望のメヌエット*</div>
 <div align=center>*Art attitude et des prétentieux*</div>
-<h2 id="div-aligncenter-a-hrefhttpswwwbilibilicomvideobv14f4y1q75x-target_blankh1cliquez-ici-pour-regarder-la-vidéoh1adiv"><div align=center> <a href="https://www.bilibili.com/video/BV14f4y1Q75X" target="_blank"><h1>》Cliquez ici pour regarder la vidéo《#</h1></a></div></h2>
+<h2 id="div-aligncenter-a-hrefhttpswwwbilibilicomvideobv14f4y1q75x-target_blankfont-colorff69b4-size72cliquez-ici-pour-regarder-la-vidéo-sur-bilibilifontadiv"><div align=center> <a href="https://www.bilibili.com/video/BV14f4y1Q75X" target="_blank"><font color=#FF69B4 size=72>》Cliquez ici pour regarder la vidéo sur BILIBILI《</font></a></div></h2>
 <!-- more -->
-]]></content>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26115507&auto=1&height=66"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于本站]]></title>
