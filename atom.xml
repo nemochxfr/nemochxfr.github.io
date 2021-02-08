@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-08T09:17:52.888Z</updated>
+    <updated>2021-02-08T13:08:08.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
+    <entry>
+        <title type="html"><![CDATA[123]]></title>
+        <id>https://nemochxfr.github.io/post/123/</id>
+        <link href="https://nemochxfr.github.io/post/123/">
+        </link>
+        <updated>2021-02-08T09:46:45.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="C:%5CUsers%5C%E6%81%A2%E9%9B%AA%E5%90%9B%5CDesktop-2e298b310fb09d55.png" alt="-2e298b310fb09d55" loading="lazy"></figure>
+<p>12312312</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pizza]]></title>
         <id>https://nemochxfr.github.io/post/pizza/</id>
@@ -63,21 +73,24 @@ La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniform
         <link href="https://nemochxfr.github.io/post/Inachevement/">
         </link>
         <updated>2021-02-04T08:54:38.000Z</updated>
-        <content type="html"><![CDATA[<h3>是历史的虚无。</h3>
-![](https://nemochxfr.github.io/post-images/1612775841748.jpg)
-展示
-![IMG_20200809_174516](F:\工作坊\zhaop\IMG_20200809_174516.jpg)
-![IMG_20200809_153902](F:\工作坊\zhaop\IMG_20200809_153902.jpg)
-![IMG_20200809_160234](F:\工作坊\zhaop\IMG_20200809_160234.jpg)
-![IMG_20200809_174714](F:\工作坊\zhaop\IMG_20200809_174714.jpg)
-![IMG_20200809_153841](F:\工作坊\zhaop\IMG_20200809_153841.jpg)
-![IMG_20200809_153855](F:\工作坊\zhaop\IMG_20200809_153855.jpg)
-![IMG_20200809_174551](F:\工作坊\zhaop\IMG_20200809_174551.jpg)
-制作
-![微信图片_20210206221909](F:\工作坊\zhaop\微信图片_20210206221909.jpg)
-![IMG_20200808_204049](F:\工作坊\zhaop\IMG_20200808_204049.jpg)
-![IMG_20200808_151002](F:\工作坊\zhaop\IMG_20200808_151002.jpg)
-![IMG_20200807_152315](F:\工作坊\zhaop\IMG_20200807_152315.jpg)
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612776262609.jpg" alt="" loading="lazy"></figure>
+<div align=center>Inachèvement </div>
+<div align=center>statue</div>
+<div align=center>12x12x60(CM)x6</div>
+<div align=center>Argile légère.Mousse plastique.papier </div>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612776262609.jpg" alt="" loading="lazy"></figure>
+<div align=center>Inachèvement </div>
+<div align=center>statue</div>
+<div align=center>12x12x60(CM)x6</div>
+<div align=center>Argile légère.Mousse plastique.papier </div>
+<!-- more -->
+<p><img src="https://nemochxfr.github.io/post-images/1612777314020.png" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612777320873.png" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612777326090.png" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612777332670.png" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612777339092.png" alt="" loading="lazy"></p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
