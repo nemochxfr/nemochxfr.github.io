@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-09T10:46:13.326Z</updated>
+    <updated>2021-02-10T14:09:50.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
+    <entry>
+        <title type="html"><![CDATA[Modèle d'assemblage, Comment devrait être le style d'animation]]></title>
+        <id>https://nemochxfr.github.io/post/modele-dassemblage-comment-devrait-etre-le-style-danimation/</id>
+        <link href="https://nemochxfr.github.io/post/modele-dassemblage-comment-devrait-etre-le-style-danimation/">
+        </link>
+        <updated>2021-02-10T13:10:48.000Z</updated>
+        <content type="html"><![CDATA[<p>123</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasmin sur les avant-toits， pour Le 44e Congrès du patrimoine mondial]]></title>
+        <id>https://nemochxfr.github.io/post/jasmin-sur-les-avant-toits-pour-le-44e-congres-du-patrimoine-mondial/</id>
+        <link href="https://nemochxfr.github.io/post/jasmin-sur-les-avant-toits-pour-le-44e-congres-du-patrimoine-mondial/">
+        </link>
+        <updated>2021-02-10T12:10:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>Le 44ème Congrès du patrimoine mondial se tiendra dans Fuzhou,  ma ville natale.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Le 44ème Congrès du patrimoine mondial se tiendra dans Fuzhou,  ma ville natale.</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foi temporaire]]></title>
+        <id>https://nemochxfr.github.io/post/foi-temporaire/</id>
+        <link href="https://nemochxfr.github.io/post/foi-temporaire/">
+        </link>
+        <updated>2021-02-09T11:17:11.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612869615980.jpg" alt="" loading="lazy"></figure>
+<div align=center>Foi temporaire </div>
+<div align=center>espace</div>
+<div align=center>2.2(m^2) dans les toilettes</div>
+<div align=center>lampe à rayons ultra-violets. rouleau de papier toilette </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pizza]]></title>
         <id>https://nemochxfr.github.io/post/pizza/</id>
@@ -19,10 +52,10 @@
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612864400033.jpg" alt="" loading="lazy"></figure>
 <div align=center>Pizza</div>
 <div align=center>sculpture 144π(CM^2)</div>
-Lorsque l'espace est fixé, le temps s'arrête.
-Lorsque l'espace s'arrête, le temps est fixé.
-Oui, Le temps et l'espace sont essentiellement les mêmes choses.
-N'importe quoi qu'il soit ! C'est comme un pizza, amusant.
+<p>Lorsque l'espace est fixé, le temps s'arrête.<br>
+Lorsque l'espace s'arrête, le temps est fixé.<br>
+Oui, Le temps et l'espace sont essentiellement les mêmes choses.<br>
+N'importe quoi qu'il soit ! C'est comme un pizza, amusant.</p>
 <figure data-type="image" tabindex="2"><img src="https://nemochxfr.github.io/post-images/1612864416553.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="3"><img src="https://nemochxfr.github.io/post-images/1612864425847.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="4"><img src="https://nemochxfr.github.io/post-images/1612864440565.jpg" alt="" loading="lazy"></figure>
@@ -55,6 +88,26 @@ La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniform
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zi Yan, couvre-doisser]]></title>
+        <id>https://nemochxfr.github.io/post/zi-yan-pi-zhi-wen-jian-jia/</id>
+        <link href="https://nemochxfr.github.io/post/zi-yan-pi-zhi-wen-jian-jia/">
+        </link>
+        <updated>2021-02-05T08:23:19.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>一个融合的了中国传统园林的意境的中式文件夹。</strong></p>
+<blockquote>
+<p>是大一的时候做的，当时图像不是很清晰。等之后在把这一篇写完。暂时用来熟悉markdown语法。</p>
+</blockquote>
+</blockquote>
+<hr>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9851577"><label class="task-list-item-label" for="task-item-9851577"> 123</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6871964"><label class="task-list-item-label" for="task-item-6871964"> 321</label></li>
+</ul>
+<h1 id="展示">展示：</h1>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[瓶盖收集]]></title>
         <id>https://nemochxfr.github.io/post/ping-gai-shou-ji/</id>
         <link href="https://nemochxfr.github.io/post/ping-gai-shou-ji/">
@@ -69,27 +122,39 @@ La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniform
         <link href="https://nemochxfr.github.io/post/Inachevement/">
         </link>
         <updated>2021-02-04T08:54:38.000Z</updated>
-        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612867405220.jpg" alt="" loading="lazy"></figure>
+        <summary type="html"><![CDATA[<p><img src="https://nemochxfr.github.io/post-images/1612868009642.png" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612867405220.jpg" alt="" loading="lazy"></p>
 <div align=center>Inachèvement </div>
 <div align=center>statue</div>
 <div align=center>12x12x60(CM)x6</div>
 <div align=center>Argile légère.Mousse plastique.papier </div>
+------
+<p>Qu'est-ce qui n'est pas fait exactement?<br>
+Vous ne pouvez pas dire si c'est la destruction ou la création.<br>
+Ou peut-être le travail lui-même n'est pas terminée.<br>
+Ou Nous-mêmes</p>
 ]]></summary>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612867405220.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<p><img src="https://nemochxfr.github.io/post-images/1612868009642.png" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1612867405220.jpg" alt="" loading="lazy"></p>
 <div align=center>Inachèvement </div>
 <div align=center>statue</div>
 <div align=center>12x12x60(CM)x6</div>
 <div align=center>Argile légère.Mousse plastique.papier </div>
+------
+<p>Qu'est-ce qui n'est pas fait exactement?<br>
+Vous ne pouvez pas dire si c'est la destruction ou la création.<br>
+Ou peut-être le travail lui-même n'est pas terminée.<br>
+Ou Nous-mêmes</p>
 <!-- more -->
-<figure data-type="image" tabindex="2"><img src="https://nemochxfr.github.io/post-images/1612867419621.jpeg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://nemochxfr.github.io/post-images/1612867426102.jpeg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://nemochxfr.github.io/post-images/1612867453775.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="5"><img src="https://nemochxfr.github.io/post-images/1612867461044.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="6"><img src="https://nemochxfr.github.io/post-images/1612867470748.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="7"><img src="https://nemochxfr.github.io/post-images/1612867486457.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="8"><img src="https://nemochxfr.github.io/post-images/1612867495977.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="9"><img src="https://nemochxfr.github.io/post-images/1612867507174.JPG" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="10"><img src="https://nemochxfr.github.io/post-images/1612867517395.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1612867419621.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://nemochxfr.github.io/post-images/1612867426102.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://nemochxfr.github.io/post-images/1612867453775.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://nemochxfr.github.io/post-images/1612867461044.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://nemochxfr.github.io/post-images/1612867470748.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://nemochxfr.github.io/post-images/1612867486457.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://nemochxfr.github.io/post-images/1612867495977.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://nemochxfr.github.io/post-images/1612867507174.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://nemochxfr.github.io/post-images/1612867517395.JPG" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -144,48 +209,6 @@ La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniform
 <p>适当的温度会让肥皂融化。</p>
 <p>但这些效果都<strong>太不有趣</strong>了。</p>
 <h1 id="参考référence">参考référence</h1>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://nemochxfr.github.io/post/jljn/</id>
-        <link href="https://nemochxfr.github.io/post/jljn/">
-        </link>
-        <updated>2021-02-01T10:59:23.000Z</updated>
-        <content type="html"><![CDATA[<p>建于2021年2月1日。<br>
-使用Gridea建立。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://nemochxfr.github.io/post/hello-gridea/</id>
-        <link href="https://nemochxfr.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
