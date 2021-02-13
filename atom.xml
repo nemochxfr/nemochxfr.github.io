@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-13T13:11:47.007Z</updated>
+    <updated>2021-02-13T14:10:13.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
+    <entry>
+        <title type="html"><![CDATA[【référence】Super Paper Mario & Monument Valley——la perspective du monde]]></title>
+        <id>https://nemochxfr.github.io/post/reference-wii-super-paper-mario/</id>
+        <link href="https://nemochxfr.github.io/post/reference-wii-super-paper-mario/">
+        </link>
+        <updated>2021-02-13T13:15:52.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1613222870179.jpg" alt="" loading="lazy"></figure>
+<div align=center>Wii: Super Paper Mario</div>
+<div align=center>jeu  vidéo</div>
+<div align=center>Nintendo©</div>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1613222870179.jpg" alt="" loading="lazy"></figure>
+<div align=center>Wii: Super Paper Mario</div>
+<div align=center>jeu  vidéo</div>
+<div align=center>Nintendo©</div>
+<!-- more -->
+<p>游戏的核心是切换视角。<br>
+不同的视角下，会看到不同的世界。2D/3D场景之间的差异非常大。<br>
+Le centre du jeu est le changement de perspective.<br>
+Sous des angles différents, on voit des mondes différents. La scène change beaucoup en 2D/3D.<br>
+<img src="https://nemochxfr.github.io/post-images/1613223497639.jpg" alt="" loading="lazy"><br>
+像这里，在2D的视角下前方是没路的。但当你转换到3D视角时，你就会发现背景的山脉实际上不仅仅是一张图片，他是有厚度的，你可以走在本来不可以走的地方上。<br>
+如果你在这个山上行走的中途回到2D视角，那么马里奥会直接从空中掉下去。（不过游戏会给你几秒的“土狼时间”。）<br>
+Comme ici, il n'y a pas de chemin devant en 2D. Mais quand vous passez à la perspective 3D, vous verrez que la montagne de fond est en fait plus qu'une image, il est épais et vous pouvez marcher là où vous ne pouviez pas marcher autrement.<br>
+Si vous revenez à la vue 2D à mi - chemin de la marche sur la montagne, Mario tombera directement du ciel.(mais le jeu vous donnera quelques secondes de &quot;Timing coyote&quot;.)<br>
+这种通过维度的转换来改变对空间的认知的方式是非常特殊的。两个维度下观察的结果是不同的，这与视错觉非常相似，但是这种方式对世界的认知是清晰的。<br>
+Cette façon de changer la perception de l'espace par la transformation des dimensions est très particulière. Les résultats observés dans les deux dimensions sont différents, ce qui est très similaire à l'illusion visuelle, mais cette façon de voir le monde est claire.<br>
+En parlant d'illusions visuelles, il faut mentionner <em>Monument Valley</em></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4X FIELD - un motif décoratif changeable ]]></title>
         <id>https://nemochxfr.github.io/post/4x-field-un-motif-decoratif-changeable/</id>
@@ -142,8 +172,8 @@ La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniform
 </blockquote>
 <hr>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4638351"><label class="task-list-item-label" for="task-item-4638351"> 123</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3300603"><label class="task-list-item-label" for="task-item-3300603"> 321</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8579041"><label class="task-list-item-label" for="task-item-8579041"> 123</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7095997"><label class="task-list-item-label" for="task-item-7095997"> 321</label></li>
 </ul>
 <h1 id="展示">展示：</h1>
 ]]></content>
@@ -205,23 +235,5 @@ Ou peut-être le travail lui-même n'est pas terminée.<br>
 Ou Nous-mêmes</p>
 </blockquote>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图廊]]></title>
-        <id>https://nemochxfr.github.io/post/tu-lang/</id>
-        <link href="https://nemochxfr.github.io/post/tu-lang/">
-        </link>
-        <updated>2021-02-02T16:23:31.000Z</updated>
-        <summary type="html"><![CDATA[<p>Ici la Galerie pour parcourir les image rapidement.<br>
-↓Cliquez là-bas pour voir images HD↓</p>
-<h3><a href="https://nemochx1.github.io/" >=Galerie-Torsion-Nodal=</a><h3>
-]]></summary>
-        <content type="html"><![CDATA[<p>Ici la Galerie pour parcourir les image rapidement.<br>
-↓Cliquez là-bas pour voir images HD↓</p>
-<h3><a href="https://nemochx1.github.io/" >=Galerie-Torsion-Nodal=</a><h3>
-<!-- more -->
-<p><img src="https://nemochxfr.github.io/post-images/1612791810514.png" alt="" loading="lazy"><br>
-<img src="https://nemochx1.github.io/post-images/tan-ya-feng-ti-gu-lei-cha-fu.jpg" alt="cover9"></p>
-<img src="https://nemochx1.github.io/post-images/tan-ya-feng-ti-gu-lei-cha-fu.jpg" alt="123啊啊啊">]]></content>
     </entry>
 </feed>
