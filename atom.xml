@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-13T08:51:39.271Z</updated>
+    <updated>2021-02-13T13:11:47.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
-    <subtitle>site de chen.恋爱世纪末的呼声。</subtitle>
+    <subtitle>site de chen.</subtitle>
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
@@ -142,8 +142,8 @@ La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniform
 </blockquote>
 <hr>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-400644"><label class="task-list-item-label" for="task-item-400644"> 123</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8963818"><label class="task-list-item-label" for="task-item-8963818"> 321</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4638351"><label class="task-list-item-label" for="task-item-4638351"> 123</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3300603"><label class="task-list-item-label" for="task-item-3300603"> 321</label></li>
 </ul>
 <h1 id="展示">展示：</h1>
 ]]></content>
@@ -207,14 +207,21 @@ Ou Nous-mêmes</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[法语版]]></title>
-        <id>https://nemochxfr.github.io/post/xian-zai-shi-zhong-wen-ban/</id>
-        <link href="https://nemochxfr.github.io/post/xian-zai-shi-zhong-wen-ban/">
+        <title type="html"><![CDATA[图廊]]></title>
+        <id>https://nemochxfr.github.io/post/tu-lang/</id>
+        <link href="https://nemochxfr.github.io/post/tu-lang/">
         </link>
-        <updated>2021-02-03T04:16:40.000Z</updated>
-        <content type="html"><![CDATA[<p>中文799948304@qq.com<br>
-法语412441525@qq.com fr<br>
-画廊511560284@qq.com 1</p>
-]]></content>
+        <updated>2021-02-02T16:23:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ici la Galerie pour parcourir les image rapidement.<br>
+↓Cliquez là-bas pour voir images HD↓</p>
+<h3><a href="https://nemochx1.github.io/" >=Galerie-Torsion-Nodal=</a><h3>
+]]></summary>
+        <content type="html"><![CDATA[<p>Ici la Galerie pour parcourir les image rapidement.<br>
+↓Cliquez là-bas pour voir images HD↓</p>
+<h3><a href="https://nemochx1.github.io/" >=Galerie-Torsion-Nodal=</a><h3>
+<!-- more -->
+<p><img src="https://nemochxfr.github.io/post-images/1612791810514.png" alt="" loading="lazy"><br>
+<img src="https://nemochx1.github.io/post-images/tan-ya-feng-ti-gu-lei-cha-fu.jpg" alt="cover9"></p>
+<img src="https://nemochx1.github.io/post-images/tan-ya-feng-ti-gu-lei-cha-fu.jpg" alt="123啊啊啊">]]></content>
     </entry>
 </feed>
