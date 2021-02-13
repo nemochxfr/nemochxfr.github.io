@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-13T14:10:13.935Z</updated>
+    <updated>2021-02-13T15:55:24.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -11,33 +11,63 @@
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
     <entry>
-        <title type="html"><![CDATA[【référence】Super Paper Mario & Monument Valley——la perspective du monde]]></title>
+        <title type="html"><![CDATA[【référence】Super Paper Mario——la perspective du monde]]></title>
         <id>https://nemochxfr.github.io/post/reference-wii-super-paper-mario/</id>
         <link href="https://nemochxfr.github.io/post/reference-wii-super-paper-mario/">
         </link>
         <updated>2021-02-13T13:15:52.000Z</updated>
-        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1613222870179.jpg" alt="" loading="lazy"></figure>
-<div align=center>Wii: Super Paper Mario</div>
-<div align=center>jeu  vidéo</div>
-<div align=center>Nintendo©</div>
-]]></summary>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1613222870179.jpg" alt="" loading="lazy"></figure>
 <div align=center>Wii: Super Paper Mario</div>
 <div align=center>jeu  vidéo</div>
 <div align=center>Nintendo©</div>
-<!-- more -->
+<div align=center>2007</div>
 <p>游戏的核心是切换视角。<br>
 不同的视角下，会看到不同的世界。2D/3D场景之间的差异非常大。<br>
 Le centre du jeu est le changement de perspective.<br>
 Sous des angles différents, on voit des mondes différents. La scène change beaucoup en 2D/3D.<br>
 <img src="https://nemochxfr.github.io/post-images/1613223497639.jpg" alt="" loading="lazy"><br>
 像这里，在2D的视角下前方是没路的。但当你转换到3D视角时，你就会发现背景的山脉实际上不仅仅是一张图片，他是有厚度的，你可以走在本来不可以走的地方上。<br>
-如果你在这个山上行走的中途回到2D视角，那么马里奥会直接从空中掉下去。（不过游戏会给你几秒的“土狼时间”。）<br>
 Comme ici, il n'y a pas de chemin devant en 2D. Mais quand vous passez à la perspective 3D, vous verrez que la montagne de fond est en fait plus qu'une image, il est épais et vous pouvez marcher là où vous ne pouviez pas marcher autrement.<br>
+如果你在这个山上行走的中途回到2D视角，那么马里奥会直接从空中掉下去。（不过游戏会给你几秒的“土狼时间”）。<br>
 Si vous revenez à la vue 2D à mi - chemin de la marche sur la montagne, Mario tombera directement du ciel.(mais le jeu vous donnera quelques secondes de &quot;Timing coyote&quot;.)<br>
-这种通过维度的转换来改变对空间的认知的方式是非常特殊的。两个维度下观察的结果是不同的，这与视错觉非常相似，但是这种方式对世界的认知是清晰的。<br>
-Cette façon de changer la perception de l'espace par la transformation des dimensions est très particulière. Les résultats observés dans les deux dimensions sont différents, ce qui est très similaire à l'illusion visuelle, mais cette façon de voir le monde est claire.<br>
-En parlant d'illusions visuelles, il faut mentionner <em>Monument Valley</em></p>
+这种通过维度的转换来改变对空间的认知的方式是非常特殊的。与传统的视错觉不同，这种方式对世界的认知是清晰的。<br>
+Cette façon de changer la perception de l'espace par la transformation des dimensions est très particulière.Contrairement aux illusions visuelles traditionnelles, cette façon de voir le monde est claire.<br>
+说到视错觉，就一定要提《纪念碑谷》和《瀑布》<br>
+En parlant d'illusions visuelles, il faut mentionner <em>Monument Valley</em> et <em>Cascade</em><br>
+<img src="https://nemochxfr.github.io/post-images/1613226910099.jpg" alt="" loading="lazy"><br>
+《瀑布》的视觉错误是通过物体状态的转变而形成的。这其实是一种数学结果。而《纪念碑谷》就是利用这一特性，通过改变场景内的多面体的状态来改变整体状态来游玩的游戏。<br>
+Les erreurs visuelles de la <em>Cascade</em> résultent de la transformation de l'état de l'objet.En fait, c'est un résultat mathématique. Et Monument Valley est un jeu qui utilise cette fonctionnalité pour changer l'état global en changeant l'état des polyèdres dans la scène.<br>
+<img src="https://nemochxfr.github.io/post-images/1613228493576.jpg" alt="" loading="lazy"><br>
+↑一个关卡的不同状态différents états d’un niveau↑</p>
+<p>上面提到的作品有一个共同的特点：人们对一个对象产生了两种的认知。这个效果的实现原理是完全相反的。《纪念碑谷》这种“视错觉”类作品实际上是在固定的视角下，被观察的对象其实是两个不完整的物体。因为同时观测了两个的物体，因此自然会产生两种状态的认知，但这样的认知通常是模糊的。而《超级纸片马里奥》中是使用了不同的维度和视角对同一物体进行观测从而获得两种认知。虽然认知结果有两个，但是因为观测的对象是唯一的，因此即使两种认知是矛盾的，但对应对象的认知依然是清晰的。<br>
+Les œuvres mentionnées ci - dessus ont une caractéristique commune: les gens développent deux types de Cognition d'un objet. Le principe de réalisation de cet effet est tout à fait opposé. <em>Monument Valley</em>, la sorte d'illusion visuelle, est en fait sur un point de vue fixe, et l'objet observé est en fait deux objets incomplets. Parce que les deux objets sont observés en même temps, la cognition des deux états se produit naturellement, mais cette Cognition est souvent floue. <em>Super Paper Mario</em> utilise différentes dimensions et différents perspectives pour observer le même objet afin d'obtenir deux  Cognitions. Bien qu'il y ait deux résultats cognitifs, parce que l'objet observé est unique, même si les deux cognitions sont contradictoires, la cognition de l'objet correspondant est claire.</p>
+<p>据我所知，在《超级纸片马里奥》之前没有任何一个游戏通过视角认知的差异来进行游戏。（在这之后也只有《压碎空间3D》）<br>
+Pour autant que je sache, il n'y avait pas un seul jeu avant 《Super Paper Mario》 qui jouait à travers les différences de perception de perspective.<br>
+（Après cela, il n'y a que <em>Cauchemar Puzzle crash 3D</em>）</p>
+<p>进一步思考，为什么照片可以记录一个时刻？<br>
+设想一下，为什么照片可以在一个三维的时间流动的世界中将一刻的过去固定下来。<br>
+照片的和我们的世界有什么不同，真的是时间上的吗?<br>
+不！<br>
+照片让世界失去了体积变成了平面。<br>
+也就是说压缩了一个维度使得更高维度的存在得以表示。<br>
+照片使用了第四维度，也是就是时间，替换了体积。但由于在这里体积是一个不会改变的量，因此时间被静止了下来。这个结果也表明了时间和空间其实同样的东西，这和我所见过的许多研究一致。<br>
+我们看到的是一个绝对平面，只是我们根据经验推断出了它已经不存在的空间状态。<br>
+这个推断或许不是科学的真是结果，但是充满了哲学意义，这让我震惊。<br>
+Réfléchis encore. Pourquoi une photo peut - elle enregistrer un moment?<br>
+pourquoi le photo peut montrer un temps différent dans un monde 3D dans un monde où le temps est  toujours changé.<br>
+quel est le plus grand différence entre le monde de phote et le réalité, c'est vraiment le temps?<br>
+non!<br>
+le photo est une surface planeIl y n'a pas le volume.<br>
+Ça veut dire, pour exprimer une dimension plus hautele photo perd une dimension basse.<br>
+La photo utilise la quatrième dimension, c'est - à - dire le temps, au lieu du volume.Mais comme ici le volume est une quantité immuable, le temps est immobile.Les résultats montrent également que le temps et l'espace sont en fait les mêmes, ce qui concorde avec de nombreuses études que j'ai vues.<br>
+Nous voyons un plan absolu, mais nous déduisons empiriquement l'état de l'espace qu'il n'existe plus.<br>
+Cette inférence n'est peut - être pas scientifique, mais elle est pleine de sens philosophique, ce qui m'a choqué.<br>
+<img src="https://nemochxfr.github.io/post-images/1613231497765.jpg" alt="" loading="lazy"><br>
+我曾经想要表达这个概念，但我没有获得很好的结果。<br>
+J'ai essayé d'exprimer ce concept, mais je n'ai pas eu de bons résultats.<br>
+<img src="https://nemochxfr.github.io/post-images/1613231672340.jpg" alt="" loading="lazy"><br>
+在特定视角观看，只能看到特定的画面，但实际上我和照片中的人同时存在。<br>
+Dans une perspective particulière, on ne voit que des images spécifiques.Mais en fait, j 'existe en même temps que les gens sur les photos.</p>
 ]]></content>
     </entry>
     <entry>
@@ -172,8 +202,8 @@ La photo a été prisé à chaque seconde et l'acteur a Squatté 60 fois uniform
 </blockquote>
 <hr>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8579041"><label class="task-list-item-label" for="task-item-8579041"> 123</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7095997"><label class="task-list-item-label" for="task-item-7095997"> 321</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9918712"><label class="task-list-item-label" for="task-item-9918712"> 123</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7380899"><label class="task-list-item-label" for="task-item-7380899"> 321</label></li>
 </ul>
 <h1 id="展示">展示：</h1>
 ]]></content>
