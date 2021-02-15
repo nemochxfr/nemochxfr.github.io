@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-15T07:15:33.221Z</updated>
+    <updated>2021-02-15T18:44:35.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
+    <entry>
+        <title type="html"><![CDATA[【référence】物品本就是为了使用]]></title>
+        <id>https://nemochxfr.github.io/post/reference-wu-pin-ben-jiu-shi-wei-liao-shi-yong/</id>
+        <link href="https://nemochxfr.github.io/post/reference-wu-pin-ben-jiu-shi-wei-liao-shi-yong/">
+        </link>
+        <updated>2021-02-15T17:27:53.000Z</updated>
+        <content type="html"><![CDATA[<p>在中国不发达的地方，常常到处贴满了“小广告”，连家具也是用废品拼凑的。虽然非常的凑合，但是他们有一个共同特点：绝对好用。清华大学毕业的黄山河收集了大量这样的东西，提出了“野生设计”这一概念。<br>
+<strong>野生设计追求的是极致的实用</strong><br>
+极致的实用性有两个特点：1是绝对好用，2是绝对便宜。这与人们常常追求的高端，尊贵，品味完全相反的。这是由于“野生设计”大多来自基层人民，他们通常没有接受高等教育，同时也不富有。因此它们做出的东西并不美观，但是构思奇妙，并且实用性非常强，常常都是用废品或者最省钱的方式来制作。</p>
+<p>“野生设计”的产品为了节约成品常常使用废品制造。但当这些废品组合在一起时，又像是结构主义大师的作品。</p>
+<p>最让我感兴趣的是“野生设计”会尽可能的利用任何可以展示的物体表面来做“平面设计”，同时除了要表达的文字外什么都不需要，<strong>只要能写字的地方就能做广告，暴力且有效！</strong></p>
+<p>我从小就喜欢使用废品来做东西，我至今仍然记得我第一次使用废品进行创作时5岁的时候使用卷纸芯做了望远镜。我没有意识到这样的东西同样可以成为专门成为一种风格。<br>
+<strong>说到底，设计是一种解决方法，是有目的的，相比之下，美学和哲学都只是可有可无的手段而已。美学和流行都会改变，但使用性是永恒的，美学的终极可能就是根本不存在美学，或许野生设计本就是设计的最优方案。</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seul l'ignorance peut créer]]></title>
         <id>https://nemochxfr.github.io/post/apprendre-francais/</id>
@@ -227,27 +242,6 @@ Bien que cette série ait été adoptée, le Congrès a été reporté en raison
 <img src="https://nemochxfr.github.io/post-images/1613203767757.jpg" alt="" loading="lazy"><br>
 <img src="https://nemochxfr.github.io/post-images/1613203771005.jpg" alt="" loading="lazy"><br>
 <img src="https://nemochxfr.github.io/post-images/1613203774840.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pizza]]></title>
-        <id>https://nemochxfr.github.io/post/pizza/</id>
-        <link href="https://nemochxfr.github.io/post/pizza/">
-        </link>
-        <updated>2021-02-07T12:37:26.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1613203967719.jpg" alt="" loading="lazy"></figure>
-<div align=center>Pizza</div>
-<div align=center>sculpture</div>
-<div align=center> 144π(CM^2)</div>
-<div align=center>un horloge de Ikea, Argile de papier </div>
-<p>Lorsque l'espace est fixé, le temps s'arrête.<br>
-Lorsque l'espace s'arrête, le temps est fixé.<br>
-Oui, Le temps et l'espace sont essentiellement les mêmes choses.<br>
-N'importe quoi qu'il soit ! C'est comme un pizza, amusant.</p>
-<p><img src="https://nemochxfr.github.io/post-images/1613203999438.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613204004434.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613204008089.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613204011424.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
