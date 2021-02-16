@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-02-15T18:44:35.685Z</updated>
+    <updated>2021-02-16T07:51:32.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nemochxfr.github.io/images/avatar.png</logo>
     <icon>https://nemochxfr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Institution-Pivot-Séculaire</rights>
+    <entry>
+        <title type="html"><![CDATA[Pas mal d'affiches àl'universite]]></title>
+        <id>https://nemochxfr.github.io/post/da-xue-qi-jian-de-hai-bao/</id>
+        <link href="https://nemochxfr.github.io/post/da-xue-qi-jian-de-hai-bao/">
+        </link>
+        <updated>2021-02-16T06:47:26.000Z</updated>
+        <content type="html"><![CDATA[<p>每周学校都有各种活动。这些海报通常在三小时内完成。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【référence】物品本就是为了使用]]></title>
         <id>https://nemochxfr.github.io/post/reference-wu-pin-ben-jiu-shi-wei-liao-shi-yong/</id>
@@ -220,28 +229,6 @@ Bien que cette série ait été adoptée, le Congrès a été reporté en raison
 <img src="https://nemochxfr.github.io/post-images/1613205172548.jpg" alt="" loading="lazy"><br>
 <img src="https://nemochxfr.github.io/post-images/1613205175919.jpg" alt="" loading="lazy"><br>
 <img src="https://nemochxfr.github.io/post-images/1613205195450.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espace privé dans la épidémie]]></title>
-        <id>https://nemochxfr.github.io/post/foi-temporaire/</id>
-        <link href="https://nemochxfr.github.io/post/foi-temporaire/">
-        </link>
-        <updated>2021-02-09T11:17:11.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://nemochxfr.github.io/post-images/1613203785966.jpg" alt="" loading="lazy"></figure>
-<div align=center>Foi temporaire </div>
-<div align=center>espace</div>
-<div align=center>2.2(m^2) dans les toilettes</div>
-<div align=center>lampe à rayons ultra-violets. rouleau de papier toilette </div>
-<p><img src="https://nemochxfr.github.io/post-images/1613203748753.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203752636.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203755684.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203758715.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203761491.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203764681.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203767757.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203771005.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613203774840.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
