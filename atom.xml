@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochxfr.github.io</id>
     <title>Institution-Pivot-Séculaire</title>
-    <updated>2021-03-05T12:12:45.074Z</updated>
+    <updated>2021-03-05T12:29:39.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochxfr.github.io"/>
     <link rel="self" href="https://nemochxfr.github.io/atom.xml"/>
@@ -197,6 +197,19 @@ L'opinion des autres, ça juste m'énerve.</p>
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BE*WITH*ME]]></title>
+        <id>https://nemochxfr.github.io/post/bewithme/</id>
+        <link href="https://nemochxfr.github.io/post/bewithme/">
+        </link>
+        <updated>2021-03-01T12:23:01.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://nemochxfr.github.io/post-images/1614947094632.jpg" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1614947099423.jpg" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1614947112394.jpg" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1614947117009.jpg" alt="" loading="lazy"><br>
+<img src="https://nemochxfr.github.io/post-images/1614947124478.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Espace privé dans la épidémie]]></title>
         <id>https://nemochxfr.github.io/post/foi-temporaire/</id>
         <link href="https://nemochxfr.github.io/post/foi-temporaire/">
@@ -344,30 +357,6 @@ C'est vraiment dur. <strong>Mais nous sommes tous des êtres humains, et certain
 <img src="https://nemochxfr.github.io/post-images/1614781312715.jpg" alt="" loading="lazy"><br>
 <img src="https://nemochxfr.github.io/post-images/1614781321211.jpg" alt="" loading="lazy"><br>
 Vêtements et animation ont un grand conflit culturel.J'ai fait beaucoup de découvertes en les rassemblant pour réfléchir.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affiches: faites face aux élèves et pensez au design.]]></title>
-        <id>https://nemochxfr.github.io/post/da-xue-qi-jian-de-hai-bao/</id>
-        <link href="https://nemochxfr.github.io/post/da-xue-qi-jian-de-hai-bao/">
-        </link>
-        <updated>2021-02-25T06:47:26.000Z</updated>
-        <content type="html"><![CDATA[<p>Ces affiches ont été produites pour diverses activités à l'université.<br>
-<img src="https://nemochxfr.github.io/post-images/1613740757605.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740761835.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740764664.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740767008.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740769679.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740772712.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740775419.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740778099.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740780906.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740784071.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740787506.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740791576.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740797037.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740800634.jpg" alt="" loading="lazy"><br>
-<img src="https://nemochxfr.github.io/post-images/1613740803857.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
